@@ -56,3 +56,7 @@ This repo is a collection of AWESOME things about domain adaptation object detec
 
 - [[CVPR]](https://arxiv.org/abs/1803.11365) Cross-Domain Weakly-Supervised Object Detection Through Progressive Domain Adaptation
 - [[CVPR]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf)Domain Adaptive Faster R-CNN for Object Detection in the Wild [[Caffe2]](https://github.com/krumo/Detectron-DA-Faster-RCNN) [[Caffe]](https://github.com/yuhuayc/da-faster-rcnn)
+
+## Reference
+
+[awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
