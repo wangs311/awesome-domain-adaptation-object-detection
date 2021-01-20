@@ -34,7 +34,7 @@ This repo is a collection of AWESOME things about domain adaptation object detec
 + [[Arxiv]](https://arxiv.org/pdf/2003.12943.pdf) Adaptive Object Detection with Dual Multi-Label Prediction
 + [[Arxiv]](https://arxiv.org/pdf/2003.07071.pdf) Adapting Object Detectors with Conditional Domain Normalization [[code]](https://github.com/psu1/CDN)
 + [[Arxiv]](https://arxiv.org/pdf/2003.00707.pdf) Unbiased Mean Teacher for Cross Domain Object Detection
-+ [[Arxiv]](https://arxiv.org/ftp/arxiv/papers/2002/2002.06770.pdf) UNSUPERVISED IMAGE-GENERATION ENHANCED ADAPTATION FOR OBJECT DETECTION IN THERMAL IMAGES
++ [[Arxiv]](https://arxiv.org/ftp/arxiv/papers/2002/2002.06770.pdf) Unsupervised Image-generation Enhanced Adaptation for Object Detection in Thermal images
 + [[Arxiv]](https://arxiv.org/pdf/1912.00070.pdf) Prior-based Domain Adaptive Object Detection for Hazy and Rainy Conditions
 
 ## 2019
@@ -55,4 +55,4 @@ This repo is a collection of AWESOME things about domain adaptation object detec
 ## 2018
 
 - [[CVPR]](https://arxiv.org/abs/1803.11365) Cross-Domain Weakly-Supervised Object Detection Through Progressive Domain Adaptation
-- [[CVPR]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf)Domain Adaptive Faster R-CNN for Object Detection in the Wild [[Caffe2]](https://github.com/krumo/Detectron-DA-Faster-RCNN) [[Caffe]](https://github.com/yuhuayc/da-faster-rcnn) [[Pytorch(under developing)]]()
+- [[CVPR]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf)Domain Adaptive Faster R-CNN for Object Detection in the Wild [[Caffe2]](https://github.com/krumo/Detectron-DA-Faster-RCNN) [[Caffe]](https://github.com/yuhuayc/da-faster-rcnn)
