@@ -17,6 +17,7 @@ A collection of papers about domain adaptation object detection. Welcome to PR t
 + [[ECCV]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580477.pdf) Spatial Attention Pyramid Network for Unsupervised Domain Adaptation [[CODE]](https://isrc.iscas.ac.cn/gitlab/research/domain-adaption)
 + [[ECCV]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690307.pdf) Domain Adaptive Object Detection via Asymmetric Tri-way Faster-RCNN 
 + [[ECCV]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630086.pdf) Collaborative Training between Region Proposal Localization and Classification for Domain Adaptive Object Detection [[CODE]](https://github.com/GanlongZhao/CST_DA_detection)
++ [[ECCV]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590749.pdf)Prior-based Domain Adaptive Object Detection for Hazy and Rainy Conditions
 + [[ICIP]](https://ARXIV.org/abs/2002.06797v1) Deep Domain Adaptive Object Detection: a Survey 
 + [[WACV]](https://ARXIV.org/abs/1910.11319) Progressive Domain Adaptation for Object Detection 
 + [[WACV]](https://openaccess.thecvf.com/content_WACV_2020/papers/Pan_Multi-Scale_Adversarial_Cross-Domain_Detection_with_Robust_Discriminative_Learning_WACV_2020_paper.pdf) Multi-Scale Adversarial Cross-Domain Detection with Robust Discriminative
