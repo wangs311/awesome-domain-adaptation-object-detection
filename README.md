@@ -5,7 +5,7 @@ A collection of papers about domain adaptation object detection. Welcome to PR t
 ## 2021
 
 + [[AAAI]](https://ARXIV.org/pdf/2012.05400.pdf) A Free Lunch for Unsupervised Domain Adaptive Object Detection without Source Data
-+ [AAAI] Category Dictionary Guided Unsupervised Domain Adaptation for Object Detection
++ [AAAI](http://www4.comp.polyu.edu.hk/~cslzhang/paper/AAAI21-CDG.pdf) Category Dictionary Guided Unsupervised Domain Adaptation for Object Detection [probject](https://www.semanticscholar.org/paper/Category-Dictionary-Guided-Unsupervised-Domain-for-Li-Huang/5e412cedaa116ed4d1965dc4815ca56969be1be7) [CODE](https://github.com/strongwolf/CDG)
 + [[ARXIV]](https://ARXIV.org/abs/1911.06849v1) Curriculum Self-Paced Learning for Cross-Domain Object Detection
 
 ## 2020
