@@ -37,6 +37,7 @@ A collection of papers about domain adaptation object detection. Welcome to PR t
 + [[ARXIV]](https://ARXIV.org/pdf/2003.00707.pdf) Unbiased Mean Teacher for Cross Domain Object Detection
 + [[ARXIV]](https://ARXIV.org/ftp/ARXIV/papers/2002/2002.06770.pdf) Unsupervised Image-generation Enhanced Adaptation for Object Detection in Thermal images
 + [[ARXIV]](https://ARXIV.org/pdf/1912.00070.pdf) Prior-based Domain Adaptive Object Detection for Hazy and Rainy Conditions
++ [[ACMMM]](https://dl.acm.org/doi/10.1145/3394171.3413553) Domain-Adaptive Object Detection via Uncertainty-Aware Distribution Alignment [CODE](https://github.com/basiclab/DA-OD-MEAA-PyTorch/)
 
 ## 2019
 
