@@ -7,6 +7,7 @@ A collection of papers about domain adaptation object detection. Welcome to PR t
 + [[AAAI]](https://ARXIV.org/pdf/2012.05400.pdf) A Free Lunch for Unsupervised Domain Adaptive Object Detection without Source Data
 + [AAAI] Category Dictionary Guided Unsupervised Domain Adaptation for Object Detection
 + [[ARXIV]](https://ARXIV.org/abs/1911.06849v1) Curriculum Self-Paced Learning for Cross-Domain Object Detection
++ [[TPAMI]](https://ieeexplore.ieee.org/document/9362301) Instance-Invariant Domain Adaptive Object Detection via Progressive Disentanglement [[CODE]](https://github.com/AmingWu/IIOD)
 
 ## 2020
 
@@ -57,7 +58,3 @@ A collection of papers about domain adaptation object detection. Welcome to PR t
 
 - [[CVPR]](https://ARXIV.org/abs/1803.11365) Cross-Domain Weakly-Supervised Object Detection Through Progressive Domain Adaptation
 - [[CVPR]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf)Domain Adaptive Faster R-CNN for Object Detection in the Wild [[Caffe2]](https://github.com/krumo/Detectron-DA-Faster-RCNN) [[Caffe]](https://github.com/yuhuayc/da-faster-rcnn)
-
-## Reference
-
-[awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
