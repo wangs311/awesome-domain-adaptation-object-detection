@@ -5,7 +5,7 @@ A collection of papers about domain adaptation object detection. Welcome to PR t
 ## 2021
 
 + [[AAAI]](https://ARXIV.org/pdf/2012.05400.pdf) A Free Lunch for Unsupervised Domain Adaptive Object Detection without Source Data
-+ [AAAI] Category Dictionary Guided Unsupervised Domain Adaptation for Object Detection
++ [AAAI](http://www4.comp.polyu.edu.hk/~cslzhang/paper/AAAI21-CDG.pdf) Category Dictionary Guided Unsupervised Domain Adaptation for Object Detection [probject](https://www.semanticscholar.org/paper/Category-Dictionary-Guided-Unsupervised-Domain-for-Li-Huang/5e412cedaa116ed4d1965dc4815ca56969be1be7) [CODE](https://github.com/strongwolf/CDG)
 + [[ARXIV]](https://ARXIV.org/abs/1911.06849v1) Curriculum Self-Paced Learning for Cross-Domain Object Detection
 + [[TPAMI]](https://ieeexplore.ieee.org/document/9362301) Instance-Invariant Domain Adaptive Object Detection via Progressive Disentanglement [[CODE]](https://github.com/AmingWu/IIOD)
 
@@ -38,6 +38,7 @@ A collection of papers about domain adaptation object detection. Welcome to PR t
 + [[ARXIV]](https://ARXIV.org/pdf/2003.00707.pdf) Unbiased Mean Teacher for Cross Domain Object Detection
 + [[ARXIV]](https://ARXIV.org/ftp/ARXIV/papers/2002/2002.06770.pdf) Unsupervised Image-generation Enhanced Adaptation for Object Detection in Thermal images
 + [[ARXIV]](https://ARXIV.org/pdf/1912.00070.pdf) Prior-based Domain Adaptive Object Detection for Hazy and Rainy Conditions
++ [[ACMMM]](https://dl.acm.org/doi/10.1145/3394171.3413553) Domain-Adaptive Object Detection via Uncertainty-Aware Distribution Alignment [CODE](https://github.com/basiclab/DA-OD-MEAA-PyTorch/)
 
 ## 2019
 
