@@ -5,9 +5,12 @@ A collection of papers about domain adaptation object detection. Welcome to PR t
 ## 2021
 
 + [[AAAI]](https://ARXIV.org/pdf/2012.05400.pdf) A Free Lunch for Unsupervised Domain Adaptive Object Detection without Source Data
-+ [AAAI](http://www4.comp.polyu.edu.hk/~cslzhang/paper/AAAI21-CDG.pdf) Category Dictionary Guided Unsupervised Domain Adaptation for Object Detection [probject](https://www.semanticscholar.org/paper/Category-Dictionary-Guided-Unsupervised-Domain-for-Li-Huang/5e412cedaa116ed4d1965dc4815ca56969be1be7) [CODE](https://github.com/strongwolf/CDG)
++ [[AAAI]](http://www4.comp.polyu.edu.hk/~cslzhang/paper/AAAI21-CDG.pdf) Category Dictionary Guided Unsupervised Domain Adaptation for Object Detection [probject](https://www.semanticscholar.org/paper/Category-Dictionary-Guided-Unsupervised-Domain-for-Li-Huang/5e412cedaa116ed4d1965dc4815ca56969be1be7) [CODE](https://github.com/strongwolf/CDG)
 + [[ARXIV]](https://ARXIV.org/abs/1911.06849v1) Curriculum Self-Paced Learning for Cross-Domain Object Detection
 + [[TPAMI]](https://ieeexplore.ieee.org/document/9362301) Instance-Invariant Domain Adaptive Object Detection via Progressive Disentanglement [[CODE]](https://github.com/AmingWu/IIOD)
++ [[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/VS_MeGA-CDA_Memory_Guided_Attention_for_Category-Aware_Unsupervised_Domain_Adaptive_Object_CVPR_2021_paper.pdf) MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection
++ [[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_RPN_Prototype_Alignment_for_Domain_Adaptive_Object_Detector_CVPR_2021_paper.html) RPN Prototype Alignment for Domain Adaptive Object Detector
++ [[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_Informative_and_Consistent_Correspondence_Mining_for_Cross-Domain_Weakly_Supervised_Object_CVPR_2021_paper.pdf) Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection
 
 ## 2020
 
