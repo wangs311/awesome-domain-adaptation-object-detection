@@ -11,6 +11,11 @@ A collection of papers about domain adaptation object detection. Welcome to PR t
 + [[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/VS_MeGA-CDA_Memory_Guided_Attention_for_Category-Aware_Unsupervised_Domain_Adaptive_Object_CVPR_2021_paper.pdf) MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection
 + [[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_RPN_Prototype_Alignment_for_Domain_Adaptive_Object_Detector_CVPR_2021_paper.html) RPN Prototype Alignment for Domain Adaptive Object Detector
 + [[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_Informative_and_Consistent_Correspondence_Mining_for_Cross-Domain_Weakly_Supervised_Object_CVPR_2021_paper.pdf) Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection
++ [[ICCV]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yao_Multi-Source_Domain_Adaptation_for_Object_Detection_ICCV_2021_paper.pdf) Multi-Source Domain Adaptation for Object Detection
++ [[ICCV]](https://openaccess.thecvf.com/content/ICCV2021/papers/Tian_Knowledge_Mining_and_Transferring_for_Domain_Adaptive_Object_Detection_ICCV_2021_paper.pdf) Knowledge Mining and Transferring for Domain Adaptive Object Detection
++ [[ICCV]](https://openaccess.thecvf.com/content/ICCV2021/papers/Rezaeianaran_Seeking_Similarities_Over_Differences_Similarity-Based_Domain_Alignment_for_Adaptive_Object_ICCV_2021_paper.pdf) Seeking Similarities over Differences: Similarity-based Domain Alignment for Adaptive Object Detection
++ [[ICCV]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Vector-Decomposed_Disentanglement_for_Domain-Invariant_Object_Detection_ICCV_2021_paper.pdf) Vector-Decomposed Disentanglement for Domain-Invariant Object Detection
++ [[ICCV]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Dual_Bipartite_Graph_Learning_A_General_Approach_for_Domain_Adaptive_ICCV_2021_paper.pdf) Dual Bipartite Graph Learning: A General Approach for Domain Adaptive Object Detection
 
 ## 2020
 
