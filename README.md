@@ -2,6 +2,12 @@
 
 A collection of papers about domain adaptation object detection. Welcome to PR the works (papers, repositories) that are missed by the repo.
 
+## 2022
+
++ [[WACV]](https://openaccess.thecvf.com/content/WACV2022/papers/VS_Meta-UDA_Unsupervised_Domain_Adaptive_Thermal_Object_Detection_Using_Meta-Learning_WACV_2022_paper.pdf) Meta-UDA: Unsupervised Domain Adaptive Thermal Object Detection Using Meta-Learning
++ [[WACV]](https://openaccess.thecvf.com/content/WACV2022/papers/Zhong_PICA_Point-Wise_Instance_and_Centroid_Alignment_Based_Few-Shot_Domain_Adaptive_WACV_2022_paper.pdf) PICA: Point-Wise Instance and Centroid Alignment Based Few-Shot Domain Adaptive Object Detection With Loose Annotations
++ [[WACV]](https://openaccess.thecvf.com/content/WACV2022/papers/Yu_SC-UDA_Style_and_Content_Gaps_Aware_Unsupervised_Domain_Adaptation_for_WACV_2022_paper.pdf) SC-UDA: Style and Content Gaps Aware Unsupervised Domain Adaptation for Object Detection
+
 ## 2021
 
 + [[AAAI]](https://ARXIV.org/pdf/2012.05400.pdf) A Free Lunch for Unsupervised Domain Adaptive Object Detection without Source Data
@@ -16,9 +22,6 @@ A collection of papers about domain adaptation object detection. Welcome to PR t
 + [[ICCV]](https://openaccess.thecvf.com/content/ICCV2021/papers/Rezaeianaran_Seeking_Similarities_Over_Differences_Similarity-Based_Domain_Alignment_for_Adaptive_Object_ICCV_2021_paper.pdf) Seeking Similarities over Differences: Similarity-based Domain Alignment for Adaptive Object Detection
 + [[ICCV]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Vector-Decomposed_Disentanglement_for_Domain-Invariant_Object_Detection_ICCV_2021_paper.pdf) Vector-Decomposed Disentanglement for Domain-Invariant Object Detection
 + [[ICCV]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Dual_Bipartite_Graph_Learning_A_General_Approach_for_Domain_Adaptive_ICCV_2021_paper.pdf) Dual Bipartite Graph Learning: A General Approach for Domain Adaptive Object Detection
-+ [[WACV]](https://openaccess.thecvf.com/content/WACV2022/papers/VS_Meta-UDA_Unsupervised_Domain_Adaptive_Thermal_Object_Detection_Using_Meta-Learning_WACV_2022_paper.pdf) Meta-UDA: Unsupervised Domain Adaptive Thermal Object Detection Using Meta-Learning
-+ [[WACV]](https://openaccess.thecvf.com/content/WACV2022/papers/Zhong_PICA_Point-Wise_Instance_and_Centroid_Alignment_Based_Few-Shot_Domain_Adaptive_WACV_2022_paper.pdf) PICA: Point-Wise Instance and Centroid Alignment Based Few-Shot Domain Adaptive Object Detection With Loose Annotations
-+ [[WACV]](https://openaccess.thecvf.com/content/WACV2022/papers/Yu_SC-UDA_Style_and_Content_Gaps_Aware_Unsupervised_Domain_Adaptation_for_WACV_2022_paper.pdf) SC-UDA: Style and Content Gaps Aware Unsupervised Domain Adaptation for Object Detection
 
 ## 2020
 
