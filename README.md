@@ -4,6 +4,14 @@ A collection of papers about domain adaptation object detection. Welcome to PR t
 
 ## 2022
 
++ [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Cross-Domain_Adaptive_Teacher_for_Object_Detection_CVPR_2022_paper.pdf) Cross-Domain Adaptive Teacher for Object Detection [[Project]](https://yujheli.github.io/projects/adaptiveteacher.html) [[PyTorch]](https://github.com/facebookresearch/adaptive_teacher)
++ [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_SIGMA_Semantic-Complete_Graph_Matching_for_Domain_Adaptive_Object_Detection_CVPR_2022_paper.pdf) SIGMA: Semantic-complete Graph Matching for Domain Adaptive Object Detection [[PyTorch]](https://github.com/CityU-AIM-Group/SIGMA)
++ [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_H2FA_R-CNN_Holistic_and_Hierarchical_Feature_Alignment_for_Cross-Domain_Weakly_CVPR_2022_paper.pdf) H<sup>2</sup>FA R-CNN: Holistic and Hierarchical Feature Alignment for Cross-Domain Weakly Supervised Object Detection [[PyTorch]](https://github.com/XuYunqiu/H2FA_R-CNN) [[PaddlePaddle]](https://github.com/XuYunqiu/H2FA_R-CNN/tree/ppdet)
++ [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Task-Specific_Inconsistency_Alignment_for_Domain_Adaptive_Object_Detection_CVPR_2022_paper.pdf) Task-specific Inconsistency Alignment for Domain Adaptive Object Detection [[PyTorch]](https://github.com/MCG-NJU/TIA)
++ [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Target-Relevant_Knowledge_Preservation_for_Multi-Source_Domain_Adaptive_Object_Detection_CVPR_2022_paper.pdf) Target-Relevant Knowledge Preservation for Multi-Source Domain Adaptive Object Detection 
++ [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Cross_Domain_Object_Detection_by_Target-Perceived_Dual_Branch_Distillation_CVPR_2022_paper.pdf) Cross Domain Object Detection by Target-Perceived Dual Branch Distillation
++ [[ICLR]](https://openreview.net/pdf?id=VNqaB1g9393) Decoupled Adaptation for Cross-Domain Object Detection [[PyTorch]](https://github.com/thuml/Decoupled-Adaptation-for-Cross-Domain-Object-Detection)
++ [[AAAI]](https://www.aaai.org/AAAI22Papers/AAAI-902.LiW.pdf) SCAN: Cross Domain Object Detection with Semantic Conditioned Adaptation [[PyTorch]](https://github.com/CityU-AIM-Group/SCAN)
 + [[Image and Vision Computing]](https://www.sciencedirect.com/science/article/abs/pii/S0957417421016328) An unsupervised domain adaptation scheme for single-stage artwork recognition in cultural sites [[CODE]](https://github.com/fpv-iplab/DA-RetinaNet)
 + [[ESWA]](https://www.sciencedirect.com/science/article/abs/pii/S0957417421016328) Cross-domain object detection using unsupervised image translation
 + [[WACV]](https://openaccess.thecvf.com/content/WACV2022/papers/VS_Meta-UDA_Unsupervised_Domain_Adaptive_Thermal_Object_Detection_Using_Meta-Learning_WACV_2022_paper.pdf) Meta-UDA: Unsupervised Domain Adaptive Thermal Object Detection Using Meta-Learning
@@ -12,6 +20,7 @@ A collection of papers about domain adaptation object detection. Welcome to PR t
 
 ## 2021
 
++ [[NeurIPS]](https://proceedings.neurips.cc/paper/2021/file/c0cccc24dd23ded67404f5e511c342b0-Paper.pdf) SSAL: Synergizing between Self-Training and Adversarial Learning for Domain Adaptive Object Detection [[Project]](http://im.itu.edu.pk/synergizing-domain-adaptation/)
 + [[AAAI]](https://ARXIV.org/pdf/2012.05400.pdf) A Free Lunch for Unsupervised Domain Adaptive Object Detection without Source Data
 + [[AAAI]](http://www4.comp.polyu.edu.hk/~cslzhang/paper/AAAI21-CDG.pdf) Category Dictionary Guided Unsupervised Domain Adaptation for Object Detection [probject](https://www.semanticscholar.org/paper/Category-Dictionary-Guided-Unsupervised-Domain-for-Li-Huang/5e412cedaa116ed4d1965dc4815ca56969be1be7) [CODE](https://github.com/strongwolf/CDG)
 + [[ARXIV]](https://ARXIV.org/abs/1911.06849v1) Curriculum Self-Paced Learning for Cross-Domain Object Detection
