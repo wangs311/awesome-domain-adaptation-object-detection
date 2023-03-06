@@ -2,6 +2,11 @@
 
 A collection of papers about domain adaptation object detection. Welcome to PR the works (papers, repositories) that are missed by the repo.
 
+## 2023
++ [[WACV]](https://openaccess.thecvf.com/content/WACV2023/papers/VS_Towards_Online_Domain_Adaptive_Object_Detection_WACV_2023_paper.pdf) Towards Online Domain Adaptive Object Detection
++ [[WACV]](https://openaccess.thecvf.com/content/WACV2023/papers/Li_Domain_Adaptive_Object_Detection_for_Autonomous_Driving_Under_Foggy_Weather_WACV_2023_paper.pdf)Domain Adaptive Object Detection for Autonomous Driving Under Foggy Weather
++ [[WACV]](https://openaccess.thecvf.com/content/WACV2023/papers/Maurya_Domain_Adaptation_Using_Self-Training_With_Mixup_for_One-Stage_Object_Detection_WACV_2023_paper.pdf)Domain Adaptation Using Self-Training With Mixup for One-Stage Object Detection
+
 ## 2022
 
 + [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Towards_Robust_Adaptive_Object_Detection_Under_Noisy_Annotations_CVPR_2022_paper.pdf) Towards Robust Adaptive Object Detection under Noisy Annotations [[PyTorch]](https://github.com/CityU-AIM-Group/NLTE)
