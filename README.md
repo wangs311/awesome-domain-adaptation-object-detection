@@ -6,6 +6,8 @@ A collection of papers about domain adaptation object detection. Welcome to PR t
 + [[WACV]](https://openaccess.thecvf.com/content/WACV2023/papers/VS_Towards_Online_Domain_Adaptive_Object_Detection_WACV_2023_paper.pdf) Towards Online Domain Adaptive Object Detection
 + [[WACV]](https://openaccess.thecvf.com/content/WACV2023/papers/Li_Domain_Adaptive_Object_Detection_for_Autonomous_Driving_Under_Foggy_Weather_WACV_2023_paper.pdf)Domain Adaptive Object Detection for Autonomous Driving Under Foggy Weather[[PyTorch]](https://github.com/jinlong17/DA-Detect)
 + [[WACV]](https://openaccess.thecvf.com/content/WACV2023/papers/Maurya_Domain_Adaptation_Using_Self-Training_With_Mixup_for_One-Stage_Object_Detection_WACV_2023_paper.pdf)Domain Adaptation Using Self-Training With Mixup for One-Stage Object Detection
++ [[CVPR]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Object_Detection_With_Self-Supervised_Scene_Adaptation_CVPR_2023_paper.pdf) Object Detection with Self-Supervised Scene Adaptation [[CODE]](https://github.com/cvlab-stonybrook/scenes100)
++ 
 
 ## 2022
 
